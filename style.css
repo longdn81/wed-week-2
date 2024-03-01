@@ -1,0 +1,16 @@
+h1{
+    color: #009700;
+}
+h2{
+    color: #0000CC;
+}
+.top{
+   background-color: #FFCCFF;
+   color:#FF57BD ;
+   text-align: center;
+}
+.mid{
+    background-color:#FFFFCC ;
+    text-align: center;
+    width: 100%
+}
